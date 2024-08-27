@@ -1,4 +1,4 @@
-const oneDay = new Date('2023-08-22');
+const oneDay = new Date();
 
 const year = oneDay.getFullYear();
 const month = oneDay.getMonth() + 1; 
