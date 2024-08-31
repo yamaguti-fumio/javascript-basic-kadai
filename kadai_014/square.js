@@ -1,4 +1,5 @@
 const sum = (num) => {
-  console.log(num * num);
+  let number = num * num;
+  console.log(number);
 }
 sum(10);
